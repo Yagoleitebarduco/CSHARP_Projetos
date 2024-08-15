@@ -1,0 +1,15 @@
+C:\Users\yago.lbarduco\source\repos\Projetos\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yago.lbarduco\source\repos\Projetos\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.AssemblyInfoInputs.cache
+C:\Users\yago.lbarduco\source\repos\Projetos\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.AssemblyInfo.cs
+C:\Users\yago.lbarduco\source\repos\Projetos\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.csproj.CoreCompileInputs.cache
+C:\Users\yago.lbarduco\source\repos\Projetos\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.exe
+C:\Users\yago.lbarduco\source\repos\Projetos\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.deps.json
+C:\Users\yago.lbarduco\source\repos\Projetos\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.runtimeconfig.json
+C:\Users\yago.lbarduco\source\repos\Projetos\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.dll
+C:\Users\yago.lbarduco\source\repos\Projetos\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.pdb
+C:\Users\yago.lbarduco\source\repos\Projetos\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.dll
+C:\Users\yago.lbarduco\source\repos\Projetos\SegundoProjeto\obj\Debug\net8.0\refint\SegundoProjeto.dll
+C:\Users\yago.lbarduco\source\repos\Projetos\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.pdb
+C:\Users\yago.lbarduco\source\repos\Projetos\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.genruntimeconfig.cache
+C:\Users\yago.lbarduco\source\repos\Projetos\SegundoProjeto\obj\Debug\net8.0\ref\SegundoProjeto.dll
+C:\Users\yago.lbarduco\source\repos\Projetos\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.csproj.AssemblyReference.cache

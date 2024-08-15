@@ -1,0 +1,14 @@
+C:\Users\yago.lbarduco\source\repos\Projetos\AtividadeCSharp\bin\Debug\net8.0\AtividadeCSharp.exe
+C:\Users\yago.lbarduco\source\repos\Projetos\AtividadeCSharp\bin\Debug\net8.0\AtividadeCSharp.deps.json
+C:\Users\yago.lbarduco\source\repos\Projetos\AtividadeCSharp\bin\Debug\net8.0\AtividadeCSharp.runtimeconfig.json
+C:\Users\yago.lbarduco\source\repos\Projetos\AtividadeCSharp\bin\Debug\net8.0\AtividadeCSharp.dll
+C:\Users\yago.lbarduco\source\repos\Projetos\AtividadeCSharp\bin\Debug\net8.0\AtividadeCSharp.pdb
+C:\Users\yago.lbarduco\source\repos\Projetos\AtividadeCSharp\obj\Debug\net8.0\AtividadeCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yago.lbarduco\source\repos\Projetos\AtividadeCSharp\obj\Debug\net8.0\AtividadeCSharp.AssemblyInfoInputs.cache
+C:\Users\yago.lbarduco\source\repos\Projetos\AtividadeCSharp\obj\Debug\net8.0\AtividadeCSharp.AssemblyInfo.cs
+C:\Users\yago.lbarduco\source\repos\Projetos\AtividadeCSharp\obj\Debug\net8.0\AtividadeCSharp.csproj.CoreCompileInputs.cache
+C:\Users\yago.lbarduco\source\repos\Projetos\AtividadeCSharp\obj\Debug\net8.0\AtividadeCSharp.dll
+C:\Users\yago.lbarduco\source\repos\Projetos\AtividadeCSharp\obj\Debug\net8.0\refint\AtividadeCSharp.dll
+C:\Users\yago.lbarduco\source\repos\Projetos\AtividadeCSharp\obj\Debug\net8.0\AtividadeCSharp.pdb
+C:\Users\yago.lbarduco\source\repos\Projetos\AtividadeCSharp\obj\Debug\net8.0\AtividadeCSharp.genruntimeconfig.cache
+C:\Users\yago.lbarduco\source\repos\Projetos\AtividadeCSharp\obj\Debug\net8.0\ref\AtividadeCSharp.dll

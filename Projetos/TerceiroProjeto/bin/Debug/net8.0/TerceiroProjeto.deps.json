@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TerceiroProjeto/1.0.0": {
+        "dependencies": {
+          "QuartoProjeto": "1.0.0"
+        },
+        "runtime": {
+          "TerceiroProjeto.dll": {}
+        }
+      },
+      "QuartoProjeto/1.0.0": {
+        "runtime": {
+          "QuartoProjeto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TerceiroProjeto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QuartoProjeto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
